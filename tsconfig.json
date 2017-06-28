@@ -37,7 +37,8 @@
     },
     "exclude": [
         "demo",
-        "node_modules"
+        "node_modules",
+        "platforms"
     ],
     "compileOnSave": false
 }

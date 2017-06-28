@@ -1,3 +1,4 @@
+.idea
 *.js
 *.js.map
 *.log
@@ -11,3 +12,7 @@ demo/lib
 demo/platforms
 demo/node_modules
 node_modules
+*.tgz
+.DS_Store
+platforms
+package-lock.json

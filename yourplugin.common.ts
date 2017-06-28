@@ -1,6 +1,6 @@
-import { Observable } from 'data/observable';
 import * as app from 'application';
 import * as dialogs from 'ui/dialogs';
+import {Observable} from "tns-core-modules/data/observable";
 
 export class Common extends Observable {
   public message: string;
